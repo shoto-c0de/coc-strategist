@@ -1,0 +1,7 @@
+{
+  "name": "coc-strategist",
+  "version": "2.0.0",
+  "description": "Live Clash of Clans API data + screenshot fusion for upgrade roadmaps, war strategy, and attack planning.",
+  "skills": ["skills/coc-strategist"],
+  "mcpServers": "./.mcp.json"
+}

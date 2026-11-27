@@ -1,0 +1,141 @@
+{
+  "state": "inWar",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "preparationStartTime": "20261125T120000.000Z",
+  "startTime": "20261126T120000.000Z",
+  "endTime": "20261127T120000.000Z",
+  "clan": {
+    "tag": "#2CJV99",
+    "name": "Apex Strikers",
+    "clanLevel": 21,
+    "attacks": 24,
+    "stars": 36,
+    "destructionPercentage": 84.6,
+    "members": [
+      {
+        "tag": "#2PP", "name": "Warrior", "townHallLevel": 16, "mapPosition": 1,
+        "attacks": [
+          {"attackerTag": "#2PP", "defenderTag": "#QPP00", "stars": 3, "destructionPercentage": 100.0, "order": 1},
+          {"attackerTag": "#2PP", "defenderTag": "#QPP02", "stars": 2, "destructionPercentage": 88.0, "order": 2}
+        ]
+      },
+      {
+        "tag": "#P02", "name": "ValkyrieKing", "townHallLevel": 16, "mapPosition": 2,
+        "attacks": [
+          {"attackerTag": "#P02", "defenderTag": "#QPP08", "stars": 3, "destructionPercentage": 100.0, "order": 3}
+        ]
+      },
+      {
+        "tag": "#P08", "name": "ShadowArcher", "townHallLevel": 16, "mapPosition": 3,
+        "attacks": [
+          {"attackerTag": "#P08", "defenderTag": "#QPP09", "stars": 2, "destructionPercentage": 91.0, "order": 4},
+          {"attackerTag": "#P08", "defenderTag": "#QPP0C", "stars": 3, "destructionPercentage": 100.0, "order": 5}
+        ]
+      },
+      {
+        "tag": "#P09", "name": "TitanSlayer", "townHallLevel": 16, "mapPosition": 4,
+        "attacks": [
+          {"attackerTag": "#P09", "defenderTag": "#QPP0G", "stars": 3, "destructionPercentage": 100.0, "order": 6},
+          {"attackerTag": "#P09", "defenderTag": "#QPP0J", "stars": 2, "destructionPercentage": 82.0, "order": 7}
+        ]
+      },
+      {
+        "tag": "#P0C", "name": "WardenPrime", "townHallLevel": 15, "mapPosition": 5,
+        "attacks": []
+      },
+      {
+        "tag": "#P0G", "name": "BlizzardPro", "townHallLevel": 15, "mapPosition": 6,
+        "attacks": [
+          {"attackerTag": "#P0G", "defenderTag": "#QPP0L", "stars": 3, "destructionPercentage": 100.0, "order": 8},
+          {"attackerTag": "#P0G", "defenderTag": "#QPP0P", "stars": 2, "destructionPercentage": 85.0, "order": 9}
+        ]
+      },
+      {
+        "tag": "#P0J", "name": "LaLoMaster", "townHallLevel": 15, "mapPosition": 7,
+        "attacks": [
+          {"attackerTag": "#P0J", "defenderTag": "#QPP0Q", "stars": 3, "destructionPercentage": 100.0, "order": 10},
+          {"attackerTag": "#P0J", "defenderTag": "#QPP0R", "stars": 2, "destructionPercentage": 79.0, "order": 11}
+        ]
+      },
+      {
+        "tag": "#P0L", "name": "YetiSmash", "townHallLevel": 15, "mapPosition": 8,
+        "attacks": [
+          {"attackerTag": "#P0L", "defenderTag": "#QPP0U", "stars": 3, "destructionPercentage": 100.0, "order": 12},
+          {"attackerTag": "#P0L", "defenderTag": "#QPP08", "stars": 1, "destructionPercentage": 61.0, "order": 13}
+        ]
+      },
+      {
+        "tag": "#P0P", "name": "HybridHero", "townHallLevel": 14, "mapPosition": 9,
+        "attacks": [
+          {"attackerTag": "#P0P", "defenderTag": "#QPP0V", "stars": 3, "destructionPercentage": 100.0, "order": 14},
+          {"attackerTag": "#P0P", "defenderTag": "#QPP0Y", "stars": 3, "destructionPercentage": 100.0, "order": 15}
+        ]
+      },
+      {
+        "tag": "#P0Q", "name": "ElectroZap", "townHallLevel": 14, "mapPosition": 10,
+        "attacks": [
+          {"attackerTag": "#P0Q", "defenderTag": "#QPP20", "stars": 3, "destructionPercentage": 100.0, "order": 16}
+        ]
+      },
+      {
+        "tag": "#P0R", "name": "QueenCharge", "townHallLevel": 14, "mapPosition": 11,
+        "attacks": [
+          {"attackerTag": "#P0R", "defenderTag": "#QPP0P", "stars": 1, "destructionPercentage": 54.0, "order": 17},
+          {"attackerTag": "#P0R", "defenderTag": "#QPP0U", "stars": 2, "destructionPercentage": 77.0, "order": 18}
+        ]
+      },
+      {
+        "tag": "#P0U", "name": "HogRider99", "townHallLevel": 14, "mapPosition": 12,
+        "attacks": [
+          {"attackerTag": "#P0U", "defenderTag": "#QPP0R", "stars": 2, "destructionPercentage": 74.0, "order": 19},
+          {"attackerTag": "#P0U", "defenderTag": "#QPP0Q", "stars": 2, "destructionPercentage": 80.0, "order": 20}
+        ]
+      },
+      {
+        "tag": "#P0V", "name": "BowlerBoss", "townHallLevel": 13, "mapPosition": 13,
+        "attacks": [
+          {"attackerTag": "#P0V", "defenderTag": "#QPP0Y", "stars": 2, "destructionPercentage": 76.0, "order": 21},
+          {"attackerTag": "#P0V", "defenderTag": "#QPP20", "stars": 3, "destructionPercentage": 100.0, "order": 22}
+        ]
+      },
+      {
+        "tag": "#P0Y", "name": "MinerRush", "townHallLevel": 13, "mapPosition": 14,
+        "attacks": [
+          {"attackerTag": "#P0Y", "defenderTag": "#QPP0V", "stars": 2, "destructionPercentage": 72.0, "order": 23}
+        ]
+      },
+      {
+        "tag": "#P20", "name": "MiniPekka", "townHallLevel": 13, "mapPosition": 15,
+        "attacks": [
+          {"attackerTag": "#P20", "defenderTag": "#QPP20", "stars": 2, "destructionPercentage": 83.0, "order": 24}
+        ]
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2QPP88",
+    "name": "Crimson Knights",
+    "clanLevel": 19,
+    "attacks": 22,
+    "stars": 33,
+    "destructionPercentage": 81.2,
+    "members": [
+      {"tag": "#QPP00", "name": "Enemy1", "townHallLevel": 16, "mapPosition": 1, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP02", "name": "Enemy2", "townHallLevel": 16, "mapPosition": 2, "bestOpponentAttack": {"stars": 2, "destructionPercentage": 88.0}},
+      {"tag": "#QPP08", "name": "Enemy3", "townHallLevel": 16, "mapPosition": 3, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP09", "name": "Enemy4", "townHallLevel": 16, "mapPosition": 4, "bestOpponentAttack": {"stars": 2, "destructionPercentage": 91.0}},
+      {"tag": "#QPP0C", "name": "Enemy5", "townHallLevel": 16, "mapPosition": 5, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP0G", "name": "Enemy6", "townHallLevel": 15, "mapPosition": 6, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP0J", "name": "Enemy7", "townHallLevel": 15, "mapPosition": 7, "bestOpponentAttack": {"stars": 2, "destructionPercentage": 82.0}},
+      {"tag": "#QPP0L", "name": "Enemy8", "townHallLevel": 15, "mapPosition": 8, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP0P", "name": "Enemy9", "townHallLevel": 15, "mapPosition": 9, "bestOpponentAttack": {"stars": 2, "destructionPercentage": 85.0}},
+      {"tag": "#QPP0Q", "name": "Enemy10", "townHallLevel": 15, "mapPosition": 10, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP0R", "name": "Enemy11", "townHallLevel": 14, "mapPosition": 11, "bestOpponentAttack": {"stars": 2, "destructionPercentage": 79.0}},
+      {"tag": "#QPP0U", "name": "Enemy12", "townHallLevel": 14, "mapPosition": 12, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP0V", "name": "Enemy13", "townHallLevel": 14, "mapPosition": 13, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP0Y", "name": "Enemy14", "townHallLevel": 14, "mapPosition": 14, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}},
+      {"tag": "#QPP20", "name": "Enemy15", "townHallLevel": 13, "mapPosition": 15, "bestOpponentAttack": {"stars": 3, "destructionPercentage": 100.0}}
+    ]
+  }
+}

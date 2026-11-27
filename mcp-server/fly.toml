@@ -1,0 +1,18 @@
+# run: fly ips allocate-v4 for the dedicated static IPv4 required by Supercell (SPEC §5)
+app = "coc-strategist-mcp"
+primary_region = "iad"
+
+[env]
+  PORT = "8080"
+
+[[services]]
+  internal_port = 8080
+  protocol = "tcp"
+
+  [[services.ports]]
+    port = 80
+    handlers = ["http"]
+
+  [[services.ports]]
+    port = 443
+    handlers = ["tls", "http"]

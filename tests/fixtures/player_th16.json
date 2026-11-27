@@ -1,0 +1,109 @@
+{
+  "tag": "#2PP",
+  "name": "Warrior",
+  "townHallLevel": 16,
+  "townHallWeaponLevel": 4,
+  "expLevel": 238,
+  "trophies": 5800,
+  "bestTrophies": 5920,
+  "warStars": 1247,
+  "attackWins": 94,
+  "defenseWins": 18,
+  "builderHallLevel": 10,
+  "builderBaseTrophies": 5100,
+  "bestBuilderBaseTrophies": 5240,
+  "role": "coLeader",
+  "warPreference": "in",
+  "donations": 4200,
+  "donationsReceived": 2150,
+  "clan": {
+    "tag": "#2CJV99",
+    "name": "Apex Strikers",
+    "clanLevel": 21
+  },
+  "heroes": [
+    {
+      "name": "Barbarian King",
+      "level": 90,
+      "maxLevel": 95,
+      "village": "home",
+      "equipment": [
+        {"name": "Giant Gauntlet", "level": 22, "maxLevel": 27, "village": "home"},
+        {"name": "Rage Vial", "level": 12, "maxLevel": 18, "village": "home"}
+      ]
+    },
+    {
+      "name": "Archer Queen",
+      "level": 93,
+      "maxLevel": 95,
+      "village": "home",
+      "equipment": [
+        {"name": "Giant Arrow", "level": 16, "maxLevel": 18, "village": "home"},
+        {"name": "Healer Puppet", "level": 18, "maxLevel": 18, "village": "home"}
+      ]
+    },
+    {
+      "name": "Grand Warden",
+      "level": 70,
+      "maxLevel": 70,
+      "village": "home",
+      "equipment": [
+        {"name": "Eternal Tome", "level": 18, "maxLevel": 18, "village": "home"},
+        {"name": "Healing Tome", "level": 18, "maxLevel": 18, "village": "home"}
+      ]
+    },
+    {
+      "name": "Royal Champion",
+      "level": 44,
+      "maxLevel": 45,
+      "village": "home",
+      "equipment": [
+        {"name": "Haste Vial", "level": 15, "maxLevel": 18, "village": "home"},
+        {"name": "Seeking Shield", "level": 18, "maxLevel": 18, "village": "home"}
+      ]
+    }
+  ],
+  "heroEquipment": [
+    {"name": "Giant Gauntlet", "level": 22, "maxLevel": 27, "village": "home"},
+    {"name": "Rage Vial", "level": 12, "maxLevel": 18, "village": "home"},
+    {"name": "Giant Arrow", "level": 16, "maxLevel": 18, "village": "home"},
+    {"name": "Healer Puppet", "level": 18, "maxLevel": 18, "village": "home"},
+    {"name": "Eternal Tome", "level": 18, "maxLevel": 18, "village": "home"},
+    {"name": "Healing Tome", "level": 18, "maxLevel": 18, "village": "home"},
+    {"name": "Haste Vial", "level": 15, "maxLevel": 18, "village": "home"},
+    {"name": "Seeking Shield", "level": 18, "maxLevel": 18, "village": "home"},
+    {"name": "Electro Boots", "level": 20, "maxLevel": 27, "village": "home"}
+  ],
+  "troops": [
+    {"name": "Barbarian", "level": 12, "maxLevel": 12, "village": "home"},
+    {"name": "Archer", "level": 12, "maxLevel": 12, "village": "home"},
+    {"name": "Goblin", "level": 9, "maxLevel": 9, "village": "home"},
+    {"name": "Wall Breaker", "level": 12, "maxLevel": 12, "village": "home"},
+    {"name": "Balloon", "level": 11, "maxLevel": 11, "village": "home"},
+    {"name": "Wizard", "level": 11, "maxLevel": 12, "village": "home"},
+    {"name": "Healer", "level": 8, "maxLevel": 8, "village": "home"},
+    {"name": "Dragon", "level": 11, "maxLevel": 11, "village": "home"},
+    {"name": "P.E.K.K.A", "level": 10, "maxLevel": 11, "village": "home"},
+    {"name": "Baby Dragon", "level": 9, "maxLevel": 10, "village": "home"},
+    {"name": "Electro Titan", "level": 2, "maxLevel": 3, "village": "home"},
+    {"name": "Root Rider", "level": 2, "maxLevel": 3, "village": "home"},
+    {"name": "Thrower", "level": 1, "maxLevel": 2, "village": "home"},
+    {"name": "Hog Rider", "level": 10, "maxLevel": 13, "village": "home"},
+    {"name": "Valkyrie", "level": 11, "maxLevel": 11, "village": "home"},
+    {"name": "Raged Barbarian", "level": 18, "maxLevel": 20, "village": "builderBase"}
+  ],
+  "spells": [
+    {"name": "Lightning Spell", "level": 11, "maxLevel": 11, "village": "home"},
+    {"name": "Healing Spell", "level": 10, "maxLevel": 10, "village": "home"},
+    {"name": "Rage Spell", "level": 6, "maxLevel": 6, "village": "home"},
+    {"name": "Freeze Spell", "level": 7, "maxLevel": 7, "village": "home"},
+    {"name": "Poison Spell", "level": 9, "maxLevel": 10, "village": "home"},
+    {"name": "Overgrowth Spell", "level": 2, "maxLevel": 4, "village": "home"}
+  ],
+  "pets": [
+    {"name": "L.A.S.S.I", "level": 10, "maxLevel": 10, "village": "home"},
+    {"name": "Unicorn", "level": 10, "maxLevel": 10, "village": "home"},
+    {"name": "Diggy", "level": 9, "maxLevel": 10, "village": "home"},
+    {"name": "Spirit Fox", "level": 8, "maxLevel": 10, "village": "home"}
+  ]
+}

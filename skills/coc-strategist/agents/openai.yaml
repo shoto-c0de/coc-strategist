@@ -1,0 +1,4 @@
+name: coc-strategist
+description: Live CoC API data + screenshot fusion for upgrades, war strategy, attack plans.
+mcp_servers:
+  - coc-strategist

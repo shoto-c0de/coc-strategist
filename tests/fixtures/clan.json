@@ -1,0 +1,28 @@
+{
+  "tag": "#2CJV99",
+  "name": "Apex Strikers",
+  "type": "inviteOnly",
+  "description": "Competitive TH14-TH17 war & CWL clan.",
+  "clanLevel": 21,
+  "clanPoints": 48200,
+  "clanBuilderBasePoints": 39500,
+  "requiredTrophies": 4000,
+  "warFrequency": "always",
+  "warWinStreak": 6,
+  "warWins": 412,
+  "warTies": 8,
+  "warLosses": 105,
+  "isWarLogPublic": true,
+  "members": 42,
+  "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/example.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/example.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/example.png"
+  },
+  "memberList": [
+    {"tag": "#2PP", "name": "Warrior", "role": "coLeader", "townHallLevel": 16, "trophies": 5800, "donations": 4200, "donationsReceived": 2150},
+    {"tag": "#P02", "name": "ValkyrieKing", "role": "leader", "townHallLevel": 17, "trophies": 5950, "donations": 5100, "donationsReceived": 2800},
+    {"tag": "#P08", "name": "ShadowArcher", "role": "elder", "townHallLevel": 16, "trophies": 5420, "donations": 1900, "donationsReceived": 1800},
+    {"tag": "#P0C", "name": "WardenPrime", "role": "member", "townHallLevel": 15, "trophies": 4900, "donations": 800, "donationsReceived": 1100}
+  ]
+}

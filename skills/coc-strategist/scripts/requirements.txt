@@ -1,0 +1,3 @@
+# stdlib fallbacks (urllib, json) supported — SPEC §2
+httpx>=0.27
+orjson>=3.10
